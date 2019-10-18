@@ -395,7 +395,7 @@ if(SLIC3R_BUILD_SANDBOXES)
 endif()
 
 if(SLIC3R_BUILD_TESTS)
-    add_subdirectory(tests)
+    # add_subdirectory(tests)
 endif()
 
 
